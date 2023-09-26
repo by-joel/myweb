@@ -1,0 +1,63 @@
+2023-09-25 20:21:05.975 [info] 
+
+
+
+
+2023-09-25 20:21:05.975 [info] Extension host agent started.
+2023-09-25 20:21:06.048 [info] Started initializing default profile extensions in extensions installation folder. file:///home/joel/.vscode-server/extensions
+2023-09-25 20:21:06.118 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/joel/.vscode-server/extensions
+2023-09-25 20:21:06.174 [info] [127.0.0.1][bf605073][ManagementConnection] New connection established.
+2023-09-25 20:21:07.243 [info] [127.0.0.1][f9063efa][ExtensionHostConnection] New connection established.
+2023-09-25 20:21:07.257 [info] [127.0.0.1][f9063efa][ExtensionHostConnection] <1092> Launched Extension Host Process.
+2023-09-25 20:27:14.822 [info] Getting Manifest... ritwickdey.liveserver
+2023-09-25 20:27:15.171 [info] Installing extension: ritwickdey.liveserver
+2023-09-25 20:27:18.805 [warning] Extension signature verification failed with error 'ENOENT': ritwickdey.liveserver
+2023-09-25 20:27:28.387 [info] Extracted extension to file:///home/joel/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2023-09-25 20:27:28.410 [info] Renamed to /home/joel/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-09-25 20:27:28.415 [info] Extracting extension completed. ritwickdey.liveserver
+2023-09-25 20:27:28.429 [info] Extension installed successfully: ritwickdey.liveserver
+2023-09-25 20:27:55.303 [info] [127.0.0.1][f9063efa][ExtensionHostConnection] <1092> [0mGET /favicon.ico [33m404[0m 3.756 ms - 150[0m
+
+2023-09-25 20:38:05.298 [info] [127.0.0.1][bf605073][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-25 20:38:05.312 [error] Error: Throttler is disposed
+    at c.queue (/home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 20:38:05.329 [error] Error: Throttler is disposed
+    at c.queue (/home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 20:38:05.329 [error] Error: Throttler is disposed
+    at c.queue (/home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 20:38:05.330 [error] Error: Throttler is disposed
+    at c.queue (/home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 20:38:05.330 [error] Error: Throttler is disposed
+    at c.queue (/home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-25 20:38:05.331 [error] Error: Throttler is disposed
+    at c.queue (/home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/joel/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
